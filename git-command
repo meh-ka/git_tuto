@@ -1,1 +1,6 @@
 git config --global user.name ""
+git config --global user.email "@gmail.com"
+#Ajoutez tous les fichiers de votre projet au dépôt local avec
+get init
+git add .
+git commit -m "Initial commit"
